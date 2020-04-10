@@ -1,0 +1,36 @@
+{
+    "name": "newyear/ycauthor",
+    "description": "author library",
+    "keywords":["author","YcGame"],
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "laravel/framework": "^5.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NewYear",
+            "email": "1148213086@qq.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AuthorServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Author": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://git.ycgame.com/ycgame-common/php/coding-standard.git"
+        }
+    ],
+    "minimum-stability": "dev"
+}
