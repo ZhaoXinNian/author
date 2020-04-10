@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f138606b-df20-48d5-b692-e1a95874eb6e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Author.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/author.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/config/author.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/src/Author.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/src/AuthorFacade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/src/AuthorServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/src/Login/LoginProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/src/Login/User.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -188,12 +171,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586485179947</updated>
-      <workItem from="1586485181097" duration="2811000" />
+      <workItem from="1586485181097" duration="3073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2811000" />
+    <option name="totallyTimeSpent" value="3073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
